@@ -1,4 +1,5 @@
 **📊 Business Sales Dashboard – Power BI**
+
 📌 Project Overview
 
 This project is part of Data science and analytics intern at future interns – Task 1, where I created an interactive Business Sales Dashboard using Power BI.
@@ -17,10 +18,10 @@ Profitability Analysis: Phones and Copiers lead in contribution
 📊 Dashboard Features
 
 KPI Cards: Sales, Quantity, Profit
+
 Interactive Filters: By Order Date, Region, State, Segment
 
 Visualizations:
-
 Sales Trend (Line Chart)
 Profitability by Sub-Category (Pie Chart)
 Best-Selling Products (Bar Chart)
@@ -32,7 +33,8 @@ Power BI – Data Visualization & Dashboard Design
 Data Analytics – KPI Reporting & Trend Analysis
 Business Intelligence – Translating data into actionable insights
 
-📷 Dashboard Preview
+📷 Dashboard Preview 
+
  https://drive.google.com/file/d/1hO5Tth7ZeYxWP67eGat6slqr1HBJvQPv/view?usp=drive_link
 
 🚀 Learning Outcome
