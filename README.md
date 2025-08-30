@@ -35,7 +35,7 @@ Business Intelligence – Translating data into actionable insights
 
 📷 Dashboard Preview 
 
- https://drive.google.com/file/d/1hO5Tth7ZeYxWP67eGat6slqr1HBJvQPv/view?usp=drive_link
+https://drive.google.com/file/d/1hO5Tth7ZeYxWP67eGat6slqr1HBJvQPv/view?usp=drive_link
 
 🚀 Learning Outcome
 
